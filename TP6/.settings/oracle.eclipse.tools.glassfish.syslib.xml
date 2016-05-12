@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<system-libraries>
+    <library path="D:/EclipseMarsEE/eclipse/glassfish4/glassfish/modules/javax.servlet-api.jar" source="D:/EclipseMarsEE/eclipse/glassfish4/glassfish"/>
+    <library path="D:/EclipseMarsEE/eclipse/glassfish4/glassfish/modules/webservices-osgi.jar" source="D:/EclipseMarsEE/eclipse/glassfish4"/>
+</system-libraries>
